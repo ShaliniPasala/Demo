@@ -6,7 +6,7 @@ public class Demo1 {
 		System.out.println("Pushing Project to master");
 
 
-		System.out.println("Slave changes 6");
+		System.out.println("Slave changes 8");
 
 
 	}
