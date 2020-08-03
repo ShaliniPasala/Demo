@@ -5,7 +5,7 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("Pushing Project to master");
 
-		System.out.println("Slave changes.....master change");
+		System.out.println("Slave changes");
 
 
 	}
